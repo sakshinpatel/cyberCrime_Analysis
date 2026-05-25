@@ -118,7 +118,7 @@ Based on the analysis, the following actions are recommended:
 
 **Sakshi Patel**
 Data Analyst | Passionate about turning raw data into meaningful public-interest insights. <br>
-📧 (sakshinpatel2005@gmail.com)
+📧 sakshinpatel2005@gmail.com <br>
 [Linkedin](https://www.linkedin.com/in/sakshipatel2005/) | [GitHub](https://github.com/sakshinpatel)
 
 ---
