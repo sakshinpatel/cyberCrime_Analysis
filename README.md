@@ -14,7 +14,7 @@ The final deliverable is an **interactive Power BI dashboard** — the *Cybercri
 
 ## 📊 Dashboard Preview
 
-![Cybercrime Pattern Analysis Dashboard](Screenshot_2026-05-23_221150.png)
+![Cybercrime Pattern Analysis Dashboard](cyberCrime_Analysis_Dashboard.png)
 
 ---
 
